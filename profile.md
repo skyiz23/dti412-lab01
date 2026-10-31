@@ -31,3 +31,15 @@ From DTI412, I expect to learn modern application development practices, includi
 - Technical skills I want to improve: Back-end development, database design, problem solving
 - Technologies I want to learn: Django, REST APIs, Docker, Cloud platforms
 - Dream Job Position: Full-Stack Software Engineer
+
+# Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+# Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
